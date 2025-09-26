@@ -11,6 +11,8 @@ The provided material, although conceived and applicable under a specific hardwa
 1) [Hardware](Hardware)
  
     3D models of custom headset and fiber holders used for the system.
+
+    Table of different fiber bundle references and characteristics.
     
     List of optical components, optomecanics and precise optical scheme of the system.
 
